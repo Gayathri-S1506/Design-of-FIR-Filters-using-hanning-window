@@ -6,7 +6,7 @@
           
   To generate design of low pass FIR digital filter using SCILAB 
 
-# APPARATUS REQUIRED: 
+# APPARATUS REQUIRED:
 
   PC Installed with SCILAB 
 
